@@ -37,7 +37,7 @@ nav img{
 .nav-links ul li a{
     color:#000 ;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .nav-links ul li::after{
@@ -193,8 +193,9 @@ nav .fa{
 /*-----Sport-----*/
 
 .sub-header p{
-    font-weight:bolder;
+    font-size: 22px;
     margin-top: 40px;
+    margin-bottom: 40px;
     color: #000;
     text-align: center;
 }
@@ -342,7 +343,6 @@ nav .fa{
     padding: 20px ;
     background: #fff3f3;
     border-radius: 10px;
-    
     box-sizing: border-box;
     transition: 0.5s;
  
